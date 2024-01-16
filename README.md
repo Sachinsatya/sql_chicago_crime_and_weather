@@ -1,9 +1,9 @@
 # Chicago Crime and Weather
 
-**Author**: Jaime M. Shaker <br />
-**Email**: jaime.m.shaker@gmail.com <br />
-**Website**: https://www.shaker.dev <br />
-**LinkedIn**: https://www.linkedin.com/in/jaime-shaker/  <br />
+**Author**: Sachin MM <br />
+**Email**: sachinds360@gmail.com <br />
+**Website**: https://www.sachinpfl.xyz <br />
+**LinkedIn**: https://www.linkedin.com/in/sachin-m-6a6a9a171/  <br />
 
 :exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
 
