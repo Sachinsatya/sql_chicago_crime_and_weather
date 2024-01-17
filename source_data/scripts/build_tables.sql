@@ -1,9 +1,5 @@
 /*
 	Chicago Crime and Weather
-	Author: Jaime M. Shaker
-	Email: jaime.m.shaker@gmail.com or jaime@shaker.dev
-	Website: https://www.shaker.dev
-	LinkedIn: https://www.linkedin.com/in/jaime-shaker/
 	
 	File Name: build_tables.sql
 	Description:  This script will import data from the CSV files and create the 
